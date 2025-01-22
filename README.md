@@ -1,7 +1,7 @@
 # Interpreter-for-c-subset
 
 ## Prosty interpreter podzbioru języka c
-Język programowania: Python
+Język programowania: Python\
 Wymagana biblioteka: ply
 ```
 pip install -r requirements.txt
@@ -24,7 +24,7 @@ python main.py
 ```
 
 Przykładowe programy:
-##1.
+## 1.
 ```
 int main(){
     int i = 0;
@@ -42,7 +42,7 @@ Output:
 ```
 1024
 ```
-##2.
+## 2.
 
 ```
 int mnozenie(int a, int b){
@@ -67,7 +67,7 @@ Output:
 115
 ```
 
-##3.
+## 3.
 
 ```
 int mnozenie(int a, int b){
@@ -92,7 +92,7 @@ Output:
 RuntimeError: Expected type 'int', but got float.
 ```
 
-##4.
+## 4.
 ```
 return 0;
 ```
