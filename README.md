@@ -16,7 +16,7 @@ Typy zmiennych,\
 Działania na liczbach,\
 Wypisywanie,\
 Zmiany wartości zmiennych,\
-Porównywanie liczb\
+Porównywanie liczb
 
 Aby włączyć interpreter należy napisać swój program w pliku code.c i odpalic main.py
 ```
