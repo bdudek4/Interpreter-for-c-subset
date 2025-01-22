@@ -2,7 +2,7 @@
 
 ## Prosty interpreter podzbioru języka c
 Język programowania: Python\
-Wymagana biblioteka: ply\
+Wymagana biblioteka: ply
 ```
 pip install -r requirements.txt
 ```
@@ -18,12 +18,12 @@ Wypisywanie,\
 Zmiany wartości zmiennych,\
 Porównywanie liczb\
 
-Aby włączyć interpreter należy napisać swój program w pliku code.c i odpalic main.py\
+Aby włączyć interpreter należy napisać swój program w pliku code.c i odpalic main.py
 ```
 python main.py
 ```
 
-Przykładowe programy:\
+Przykładowe programy:
 ## 1.
 ```
 int main(){
